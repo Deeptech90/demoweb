@@ -53,7 +53,7 @@ npx serve .
 
 ## 🌐 Deployment
 
-Deployed on Vercel — [View Live Demo](https://dental-demo.vercel.app)
+Deployed on Vercel — [View Live Demo](https://dental-demo-eta-topaz.vercel.app)
 
 ---
 
